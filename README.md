@@ -15,8 +15,14 @@ This is an educational project where all of the codes where explained (step by s
 | 5 | Welcome to FastAPI                       | [Video](https://www.youtube.com/watch?v=cpOuCdzN_Mo&list=PLvLvlVqNQGHCUR2p0b8a0QpVjDUg50wQj&index=5) | [branch](https://github.com/bakrianoo/mini-rag/tree/tut-002) |
 | 6 | Nested Routes + Env Values               | [Video](https://www.youtube.com/watch?v=CrR2Bz2Y7Hw&list=PLvLvlVqNQGHCUR2p0b8a0QpVjDUg50wQj&index=6) | [branch](https://github.com/bakrianoo/mini-rag/tree/tut-003) |
 | 7 | Uploading a File                         | [Video](https://www.youtube.com/watch?v=5alMKCbFqWs&list=PLvLvlVqNQGHCUR2p0b8a0QpVjDUg50wQj&index=7) | [branch](https://github.com/bakrianoo/mini-rag/tree/tut-004) |
-
-
+| 8 | File Processing                         | [Video](https://www.youtube.com/watch?v=gQgr2iwtSBw&list=PLvLvlVqNQGHCUR2p0b8a0QpVjDUg50wQj&index=8&pp=gAQBiAQB) | [branch](https://github.com/bakrianoo/mini-rag/tree/tut-004) |
+| 9 | Docker - MongoDB - Motor                         | [Video](https://www.youtube.com/watch?v=2NOKWm0xJAk) | [branch](https://github.com/bakrianoo/mini-rag/tree/tut-005) |
+| 10 | Mongo Schemes and Models                        | [Video](https://www.youtube.com/watch?v=zgcnnMJXXV8) | [branch](https://github.com/bakrianoo/mini-rag/tree/tut-006) |
+| 11 | Mongo Indexing                        | [Video](https://www.youtube.com/watch?v=iO8FAmUVcjE) | [branch](https://github.com/bakrianoo/mini-rag/tree/tut-007) |
+| 12 | Data Pipeline Enhancements                       | [Video](https://www.youtube.com/watch?v=4x1DuezZBDU&list=PLvLvlVqNQGHCUR2p0b8a0QpVjDUg50wQj&index=12&pp=gAQBiAQB) | [branch](https://github.com/bakrianoo/mini-rag/tree/tut-007) |
+| 13 | Checkpoint-1                      | [Video](https://www.youtube.com/watch?v=7xIsZkCisPk&list=PLvLvlVqNQGHCUR2p0b8a0QpVjDUg50wQj&index=13&pp=gAQBiAQB) | [branch](https://github.com/bakrianoo/mini-rag/tree/tut-007) |
+| 14 | LLM Factory                      | [Video](https://www.youtube.com/watch?v=5TKRIFtIQAY) | [branch](https://github.com/bakrianoo/mini-rag/tree/tut-008) |
+| 15 | Vector DB Factory - QDrant                      | [Video](https://www.youtube.com/watch?v=JtS9UkvF_10) | [branch](https://github.com/bakrianoo/mini-rag/tree/tut-009) |
 
 
 ## Requirements
@@ -82,3 +88,4 @@ $ uvicorn main:app --reload --host 0.0.0.0 --port 5000
 ## POSTMAN Collection
 
 Download the POSTMAN collection from [/assets/mini-rag-app.postman_collection.json](/assets/mini-rag-app.postman_collection.json)
+
